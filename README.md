@@ -9,13 +9,13 @@ Para instalar la aplicación OCR, siga estos pasos:
 
 Clone este repositorio en su máquina local:
 
-bash
+
 
 git clone https://github.com/giova-schade/PythonOCR.git
 
 Vaya al directorio del repositorio clonado:
 
-bash
+
 
 cd PythonOCR
 Construya la imagen de Docker utilizando el siguiente comando:
